@@ -1,7 +1,0 @@
-/*Apex - Hello World*/
-
-global class HelloWorld {
-  public String hello() {
-    return 'Hello World!';
-  }
-}
